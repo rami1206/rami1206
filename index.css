@@ -1,0 +1,23 @@
+
+h1{
+    Color: blue; 
+    font-family:Cambria;           
+    font-size: 50px   ;                          
+    text-align: center;                      
+    font-style: italic;                          
+    text-decoration:underline ;      
+    background-color: gray;
+}
+
+
+ul li {
+         display: inline;
+         border-right: 3px solid black;
+         margin-right: 10px;
+         text-align: center;
+         padding: 10px;
+
+
+
+
+}
