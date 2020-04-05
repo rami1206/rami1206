@@ -1,0 +1,10 @@
+body
+h1{
+    Color: blue; 
+    font-family:Cambria;           
+    font-size: 150px   ;                          
+    text-align: center;                      
+    font-style: italic;                          
+    text-decoration:underline ;      
+    background-color: gray;
+}
